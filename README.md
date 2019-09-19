@@ -20,7 +20,7 @@ update_config=1
 # 运行
 
 ```python
-python3 scann_wifi.py
+sudo python3 scann_wifi.py
 ```
 
 # 说明
